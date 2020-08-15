@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Elve Johansson. 👋</h1>
 <h3 align="center">A passionate, soon-to-be, full-stack developer.</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=elvelive" alt="elvelive"/>
-</p>
-
 <br>
 <p align="left">
   
@@ -49,4 +45,8 @@
   <a href="https://codepen.io/elve_live" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="elve_live" height="30" width="30" /></a>
   <a href="https://linkedin.com/in/elvejohansson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="elvejohansson" height="30" width="30" /></a>
   <a href="https://instagram.com/elve_live" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="elve_live" height="30" width="30" /></a>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=elvelive" alt="elvelive"/>
 </p>
