@@ -6,13 +6,12 @@
 </p>
 
 <br>
-
-- 🔭 I’m currently working on: **various React projects**
-
-- 🌱 I’m currently learning: **React.JS**
-
-- 👨‍💻 All of my projects are available at: [https://elvelive.github.io/](https://elvelive.github.io/)
-
+<p>
+  - 🔭 I’m currently working on: **various React projects**
+  - 🌱 I’m currently learning: **React.JS**
+  - 👨‍💻 All of my projects are available at: [https://elvelive.github.io/](https://elvelive.github.io/)
+</p
+<br>
 <h2 align="center">All technologies that I'm working with.</h2>
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
