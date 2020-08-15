@@ -6,7 +6,7 @@
 </p>
 
 <br>
-<p>
+<p align="left">
   - 🔭 I’m currently working on: **various React projects**
   - 🌱 I’m currently learning: **React.JS**
   - 👨‍💻 All of my projects are available at: [https://elvelive.github.io/](https://elvelive.github.io/)
