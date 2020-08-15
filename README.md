@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Elve Johansson</h1>
-<h3 align="center">A passionate soon-to-be full-stack developer.</h3>
+<h1 align="center">Hi, I'm Elve Johansson. 👋</h1>
+<h3 align="center">A passionate, soon-to-be, full-stack developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elvelive" alt="elvelive" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=elvelive" alt="elvelive"/>
+</p>
 
-<br><br>
+<br>
 
 - 🔭 I’m currently working on: **various React projects**
 
@@ -11,7 +13,8 @@
 
 - 👨‍💻 All of my projects are available at: [https://elvelive.github.io/](https://elvelive.github.io/)
 
-<p align="left">
+<h2 align="center">All technologies that I'm working with.</h2>
+<p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -33,7 +36,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elvelive&show_icons=true" alt="elvelive" /></p>
 
 <p align="center">
-<a href="https://codepen.io/elve_live" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="elve_live" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/elvejohansson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="elvejohansson" height="30" width="30" /></a>
-<a href="https://instagram.com/elve_live" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="elve_live" height="30" width="30" /></a>
+  <a href="https://codepen.io/elve_live" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="elve_live" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/elvejohansson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="elvejohansson" height="30" width="30" /></a>
+  <a href="https://instagram.com/elve_live" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="elve_live" height="30" width="30" /></a>
 </p>
