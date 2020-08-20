@@ -55,4 +55,7 @@
   <a href="https://www.youtube.com/channel/UCVt2Vp7CswAlXDzTSuUoJYw?view_as=subscriber" target="blank">
     <img src="https://img.shields.io/badge/elve_live%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
   </a>
+  <a href="" target="blank">
+    <img src="https://img.shields.io/badge/Elve Johansson%20-%230077B5.svg?&style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
 <p>
