@@ -27,9 +27,21 @@
 <br>
 <h2 align="center">My software development stack:</h2>
 <p align="center">
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
-</p
+</p>
+
+<br>
+<h2 align="center">Other technologies that I use:</h2>
+<p align="center">
+  <!-- VSC -->
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  
+  <!-- Other -->
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+</p>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvelive&layout=compact&hide=html" alt="elvelive" />
