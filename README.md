@@ -44,7 +44,7 @@
 <!-- Social links -->
 <h2>Connect with me:</h2>
 <p align="center">
-  <a href="https://www.instagram.com/elve_live/" target="blank">
+  <a href="https://www.instagram.com/elve_live/" target="_blank">
     <img src="https://img.shields.io/badge/elve__live%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/people/Elve-Johansson/100010534201001" target="blank">
