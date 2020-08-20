@@ -34,8 +34,10 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvelive&layout=compact&hide=html" alt="elvelive" />
-  <img src="https://github-readme-stats.vercel.app/api?username=elvelive&show_icons=true" alt="elvelive" />
+  <a href="https://github.com/elvelive">
+    <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvelive&layout=compact&hide=html" alt="elvelive" />
+    <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=elvelive&show_icons=true" alt="elvelive" />
+  </a>
 </p>
 
 <!-- Social links -->
