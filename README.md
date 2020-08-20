@@ -47,7 +47,7 @@
   <a href="https://www.instagram.com/elve_live/" target="blank">
     <img src="https://img.shields.io/badge/elve__live%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="" target="blank">
+  <a href="https://www.facebook.com/people/Elve-Johansson/100010534201001" target="blank">
     <img src="https://img.shields.io/badge/Elve Johansson%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" />
   </a>
   <a href="https://twitter.com/elvelive1" target="blank">
@@ -56,7 +56,7 @@
   <a href="https://www.youtube.com/channel/UCVt2Vp7CswAlXDzTSuUoJYw?view_as=subscriber" target="blank">
     <img src="https://img.shields.io/badge/elve_live%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
   </a>
-  <a href="" target="blank">
+  <a href="https://www.linkedin.com/in/elvejohansson/" target="blank">
     <img src="https://img.shields.io/badge/Elve Johansson%20-%230077B5.svg?&style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
 <p>
