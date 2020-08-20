@@ -40,7 +40,7 @@
   </a>
 </p>
 
-<br><br>
+<br>
 <!-- Social links -->
 <h2>Connect with me:</h2>
 <p align="center">
