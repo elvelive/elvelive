@@ -31,6 +31,7 @@
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 
+<br>
 
 <!-- GitHub Stats -->
 <p align="center">
@@ -41,6 +42,7 @@
 </p>
 
 <br>
+
 <!-- Social links -->
 <h2>Connect with me:</h2>
 <p align="center">
