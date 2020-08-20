@@ -25,7 +25,7 @@
 </p>
 
 <br>
-<h2 align="center">My software development stack</h2>
+<h2 align="center">My software development stack:</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
