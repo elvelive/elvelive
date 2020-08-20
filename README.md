@@ -34,8 +34,8 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvelive&layout=compact&hide=html" alt="elvelive" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elvelive&show_icons=true" alt="elvelive" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvelive&layout=compact&hide=html" alt="elvelive" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elvelive&show_icons=true" alt="elvelive" />
 </p>
 
 <!-- Social links -->
