@@ -44,7 +44,15 @@
 <h2>Connect with me:</h2>
 <p align="center">
   <a href="https://www.instagram.com/elve_live/" target="blank">
-    <img src="https://img.shields.io/badge/elve__live%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/elve__live%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="" target="blank">
+    <img src="https://img.shields.io/badge/Elve Johansson%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/elvelive1" target="blank">
+    <img src="https://img.shields.io/badge/elvelive1%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCVt2Vp7CswAlXDzTSuUoJYw?view_as=subscriber" target="blank">
+    <img src="https://img.shields.io/badge/elve_live%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
   </a>
 <p>
-
