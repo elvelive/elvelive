@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/badge/elvelive1%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/channel/UCVt2Vp7CswAlXDzTSuUoJYw?view_as=subscriber" target="blank">
-    <img src="https://img.shields.io/badge/elve_live%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/elve__live%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/elvejohansson/" target="blank">
     <img src="https://img.shields.io/badge/Elve Johansson%20-%230077B5.svg?&style=for-the-badge&logo=Linkedin&logoColor=white"/>
