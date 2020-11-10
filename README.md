@@ -8,7 +8,6 @@
   
   - 🌱 I’m currently learning: **MERN stack**
   
-  - 👨‍💻 All of my projects are available at: [https://elvelive.github.io/](https://elvelive.github.io/)
 </p>
 
 
