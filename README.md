@@ -1,16 +1,6 @@
 <h1 align="center">Hi, I'm Elve Johansson. 👋</h1>
 <h3 align="center">A passionate, soon-to-be, full-stack developer.</h3>
 
-<br>
-<p align="left">
-  
-  - 🔭 I’m currently working on: **various React projects**
-  
-  - 🌱 I’m currently learning: **MERN stack**
-  
-</p>
-
-
 
 <h2>My tech stack:</h2> &nbsp;
 
