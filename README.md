@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Elve Johansson. 👋</h1>
-<h3 align="center">A passionate, soon-to-be, full-stack developer.</h3>
+<h3 align="center">A passionate front-end developer in the React ecosystem.</h3>
 
 
 <h2>My tech stack:</h2> &nbsp;
