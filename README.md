@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Elve Johansson. 👋</h1>
 <h3 align="center">A passionate front-end developer in the React ecosystem.</h3>
-
+<br>
 
 <h2>My front-end tech stack:</h2>
 
